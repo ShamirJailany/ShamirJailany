@@ -10,6 +10,13 @@ I’m currently pursuing a Master's in Mathematics, Modeling, and Machine Learni
 - E-commerce Sales Data Analysis (Python, SQL, Power BI)
 - Predictive Modeling for Real Estate Prices
 
+### Key Skills:
+- Data Analysis (Python, SQL)
+- Machine Learning (Scikit-learn, PyTorch)
+- Data Visualization (Matplotlib, Power BI)
+- Scientific Computing (Octave, MATLAB)
+
+
 Feel free to explore and connect with me!
 
 📧 Email: shamirjailany@gmail.com
